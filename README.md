@@ -1,6 +1,6 @@
 # 🦺 Helmet Detection with YOLOv5 (Trained from Scratch) + FiftyOne Visualization
 
-![Project Banner](link-to-your-thumbnail.png)
+![Project Banner](assets/banner.png)
 
 A deep-dive computer vision project where I trained a custom YOLOv5 model **from scratch** on a 3-class dataset (`helmet`, `head`, `person`) — and evaluated it using [FiftyOne](https://voxel51.com/fiftyone/), the open-source tool for visualizing and debugging model predictions.
 
